@@ -1,5 +1,0 @@
-C:\Repo\CSharpInterviewQuestions\obj\Debug\net6.0\CSharpInterviewQuestions.csproj.AssemblyReference.cache
-C:\Repo\CSharpInterviewQuestions\obj\Debug\net6.0\CSharpInterviewQuestions.GeneratedMSBuildEditorConfig.editorconfig
-C:\Repo\CSharpInterviewQuestions\obj\Debug\net6.0\CSharpInterviewQuestions.AssemblyInfoInputs.cache
-C:\Repo\CSharpInterviewQuestions\obj\Debug\net6.0\CSharpInterviewQuestions.AssemblyInfo.cs
-C:\Repo\CSharpInterviewQuestions\obj\Debug\net6.0\CSharpInterviewQuestions.csproj.CoreCompileInputs.cache
